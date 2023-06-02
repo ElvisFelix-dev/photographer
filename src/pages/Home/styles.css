@@ -133,4 +133,9 @@ div.faixa-vertical {
     width: 290px;
     height: 675px;
   }
+
+  .container-home {
+    display: flex;
+    height: 100vh;
+  }
 }
