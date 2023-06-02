@@ -23,10 +23,10 @@ export function Home() {
 
           <div className="detail">
             <p>
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Temporibus molestiae recusandae dolor nihil, perferendis nesciunt
-              earum adipisci quaerat ipsam ea perspiciatis minus autem magni
-              explicabo libero. Quam nam laudantium numquam."
+              "Como fotógrafa, sou apaixonada por capturar os momentos especiais
+              da vida. Através das lentes da minha câmera, tenho o privilégio de
+              eternizar sorrisos, abraços, lágrimas de alegria e todos os
+              sentimentos que tornam cada momento único."
             </p>
           </div>
         </div>
