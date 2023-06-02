@@ -122,3 +122,15 @@ div.faixa-vertical {
     display: none;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .imgPhoto img {
+    position: static;
+
+    margin-top: 8rem;
+    margin-left: -13rem;
+
+    width: 290px;
+    height: 675px;
+  }
+}
