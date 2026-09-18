@@ -32,7 +32,7 @@ export function Contact() {
         'template_xvbgsin',
         e.target,
 
-        'avv6uQ0puupw5tSE4',
+        '-Fd8tT2OVeD1qKNNJ',
       )
       .then(
         (response) => {
