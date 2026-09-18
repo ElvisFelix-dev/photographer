@@ -28,7 +28,7 @@ export function Contact() {
 
     emailjs
       .sendForm(
-        'service_e7d7usw',
+        'service_jzcvq6j',
         'template_xvbgsin',
         e.target,
 
